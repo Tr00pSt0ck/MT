@@ -2,7 +2,7 @@
   "name": "Move Reminder",
   "short_name": "MR",
   "description": "Move Reminder WebApp",
-  "start_url": "index.html",
+  "start_url": "/https://tr00pst0ck.github.io/MT/",
   "display": "fullscreen",
   "orientation": "portrait",
   "theme_color": "#272a34",
