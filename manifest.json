@@ -2,7 +2,7 @@
   "name": "Move Reminder",
   "short_name": "MR",
   "description": "Move Reminder WebApp",
-  "start_url": "/MoveReminder.html",
+  "start_url": "/index.html",
   "display": "fullscreen",
   "orientation": "portrait",
   "theme_color": "#272a34",
